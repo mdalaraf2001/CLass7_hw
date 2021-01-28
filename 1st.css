@@ -1,0 +1,48 @@
+.uno
+{
+    margin: 10px 5px 10px 5px;
+    height: 70%;
+    width: 30%;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 1px solid;
+    padding-top: 10px;
+    float:left;
+}
+.une
+{
+    font-family: 'Potta One', cursive;
+    margin: 10px 5px 10px 5px;
+    height: 70%;
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgb(167, 117, 42);
+    text-align: center;
+    border: 1px solid;
+    padding-top: 10px;
+    float: left;
+}
+.uni
+{
+    margin: 10px 5px 10px 5px;
+    height: 70%;
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgb(218, 134, 9);
+    text-align: center;
+    border: 1px solid;
+    padding-top: 10px;
+    float: left;
+}
+.headline
+{
+    font-family: 'Comfortaa', cursive;
+    height: 20%;
+    width: 100%;
+    border-radius: 10px;
+    border: solid black;
+    text-align: center;
+    background-color: coral;
+    float: left;
+}
